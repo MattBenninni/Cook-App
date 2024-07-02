@@ -4,7 +4,7 @@
 
 ### Links
 
-🔴 **Figma do projeto:** [Cook App](https://www.figma.com/community/file/1346604268107725445/cook-app)
+🔴 **Figma do projeto:** [Cook App](https://www.figma.com/design/km46HmjSCgLIg20Q5wO4rc/Cook-App?node-id=0-1&t=xhF0haPbgqEasktn-0)
 
 ---
 
@@ -39,6 +39,13 @@ Nessa aula do evento "React Native na prática", vamos criar uma aplicação que
 
 ### 1. Clonar o Repositório
 
+Primeiro, clone o repositório para sua máquina local usando Git:### 1. Clonar o Repositório
+
 Primeiro, clone o repositório para sua máquina local usando Git:
 
+```sh
+git clone https://github.com/seu-usuario/cook-app.git
+cd cook-app
+npm install
+npm start
 
